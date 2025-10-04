@@ -6,3 +6,4 @@ while n != 0: # m > n
     r = m % n
     m, n = n, r
 print(m)
+# edit test
